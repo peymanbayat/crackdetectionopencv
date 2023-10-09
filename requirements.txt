@@ -1,6 +1,7 @@
 numpy
 #opencv-python==3.4.2.16
 #opencv-contrib-python==3.4.2.16
-opencv-python==3.4.11.45
-opencv-contrib-python==3.4.11.45
+#opencv-python==3.4.11.45
+#opencv-contrib-python==3.4.11.45
+opencv_python_headless
 matplotlib
